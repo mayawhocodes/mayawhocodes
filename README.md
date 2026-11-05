@@ -57,6 +57,7 @@ Developed AWS Lambda functions and REST API integrations for a sustainability st
 
 🎓 B.A. in Computer Science from Carleton College  
 ☁️ AWS Certified Cloud Practitioner, earned November 2024  
-🌱 Posse Foundation Leadership Scholar  🌍 Outside of tech, I enjoy Pilates, reading, and traveling.
+🌱 Posse Foundation Leadership Scholar  
+🌍 Outside of tech, I enjoy Pilates, reading, and traveling.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/maya-and-tech/)
